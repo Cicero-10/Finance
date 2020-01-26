@@ -10,9 +10,9 @@ abstract class Conexao {
     public static function getInstance() {
         try {
             $pdo = new PDO
-("mysql:host=localhost;dbname=financas", "root", "");
+("mysql:host=mysql669.umbler.com;dbname=financas", "erivan", "dhiullya26");
             $pdo->setAttribute(PDO::ATTR_ERRMODE,
-			PDO::ERRMODE_EXCEPTION);
+            PDO::ERRMODE_EXCEPTION);
             return $pdo;
         } 
         
