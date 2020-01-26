@@ -58,7 +58,7 @@ if (isset($_POST['cadastrar_usuario'])) {
             $id_usuario = $_SESSION["id"];
             $md5 = md5($id_usuario);
 
-            $link = "http://localhost/Gerenciador/conexao/confirma-email.php?h=".$md5;
+            $link = "http://finance-com-br.umbler.net/conexao/confirma-email.php?h=".$md5;
 
 
             // Crie uma nova instância do PHPMailer
