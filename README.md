@@ -8,6 +8,7 @@ O projeto segue o padrão arquitetural MVC, assim, fica mais simples realizar ma
 Trello: Durante toda a definição do escopo do projeto, utilizei o Trello para organizar minhas ideias, implemntações que seriam feitas, o andamento do projeto, quais atividades foram concluidas e quais estaria à fazer. Enfim, excelente ferramenta pra quem gosta de manter as coisas no controle.
 
 Subli Text 3: Excente editor de códfigo.
+
 MySQL Workbench 8.0 CE: Para modelagem do banco.
 
 --------- Tecnologias e Recursos Utilizados ---------
