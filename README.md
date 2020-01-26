@@ -4,6 +4,7 @@ A Finance, é uma plataforma para realizar o gerenciamento financeiro particular
 O projeto segue o padrão arquitetural MVC, assim, fica mais simples realizar manuteção no código. 
 
 --------- Ferramentas Utilizadas no desenvolvimento da Finance ---------
+
 Trello: Durante toda a definição do escopo do projeto, utilizei o Trello para organizar minhas ideias, implemntações que seriam feitas, o andamento do projeto, quais atividades foram concluidas e quais estaria à fazer. Enfim, excelente ferramenta pra quem gosta de manter as coisas no controle.
 
 Subli Text 3: Excente editor de códfigo.
