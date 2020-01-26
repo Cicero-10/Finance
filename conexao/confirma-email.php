@@ -73,7 +73,7 @@
                         <br>
 
                         <div style="margin-bottom: 5%;">
-                           <img src="http://localhost/Gerenciador/vendor/img/capa.png" style="box-sizing: border-box;">
+                           <img src="http://finance-com-br.umbler.net/vendor/img/capa.png" style="box-sizing: border-box;">
                         </div>
                         <br>
                         <br>
