@@ -19,3 +19,5 @@ MySQL Workbench 8.0 CE: Para modelagem do banco.
 5. jQuery
 6. MYSQL
 7. PDO
+
+Link para acessar a aplicação: http://www.financedigital.tk/
