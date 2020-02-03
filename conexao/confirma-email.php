@@ -45,11 +45,11 @@
             //Whether to use SMTP authentication
             $mail->SMTPAuth = true;
             //Username to use for SMTP authentication - use full email address for gmail
-            $mail->Username = "oreondevelop@gmail.com";
+            $mail->Username = "seu email";
             //Password to use for SMTP authentication
-            $mail->Password = "fernanda22";
+            $mail->Password = "sua senha";
             //Set who the message is to be sent from
-            $mail->setFrom('oreondevelop@gmail.com', 'Conta Finance');
+            $mail->setFrom('seu email', 'Conta Finance');
             //Set an alternative reply-to address
             // $mail->addReplyTo('oreondevelop@gmail.com', 'Suporte');
             //Set who the message is to be sent to
